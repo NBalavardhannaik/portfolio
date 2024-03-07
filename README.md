@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NBalavardhannaik/NBalavardhannaik/output/snake.svg" alt="Snake animation" />
+<img src= "https://pbs.twimg.com/media/F1URyWeXgAI9LVe.jpg"
 
 ###
 
