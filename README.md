@@ -51,8 +51,6 @@
 
 ###
 
-<img src= "https://pbs.twimg.com/media/F1URyWeXgAI9LVe.jpg"
-
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/NBalavardhannaik/count.svg?"  />
